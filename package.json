@@ -1,0 +1,22 @@
+{
+  "name": "rux-react-webpack-plugin",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "author": "alien",
+  "license": "ISC",
+  "dependencies": {
+    "@types/webpack-env": "^1.15.1",
+    "autoprefixer": "^9.7.5",
+    "clean-webpack-plugin": "^3.0.0",
+    "happypack": "^5.0.1",
+    "html-webpack-plugin": "^3.2.0",
+    "mini-css-extract-plugin": "^0.9.0",
+    "single-line-log": "^1.1.2",
+    "terser-webpack-plugin": "^2.3.5",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.11.0",
+    "webpack-merge": "^4.2.1"
+  }
+}
